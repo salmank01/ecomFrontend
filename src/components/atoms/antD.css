@@ -1,0 +1,31 @@
+/* ATOM INPUTS */
+.antSelect .ant-select-selection-placeholder {
+  font-size: 1.2rem;
+}
+
+.antSelect .ant-select-selection-item {
+  font-size: 1.2rem;
+}
+
+.antInputNumber .ant-input-number-input,
+.antInputNumber .ant-input-number-group-addon {
+  font-size: 1.2rem;
+  height: 4rem;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+}
+
+/*-------------------------- ADD PRODUCT  ------------------------------*/
+.addProduct .ant-space-item,
+.addProduct .ant-form-item-row {
+  width: 100%;
+}
+
+/* upload button */
+.addProduct .ant-upload-select {
+  width: 65%;
+}
+.addProduct .ant-upload-wrapper {
+    display: flex;
+    justify-content: center;
+}
